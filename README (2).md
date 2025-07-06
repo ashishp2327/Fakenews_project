@@ -140,9 +140,3 @@ streamlit run app.py
 └── README.md
 ```
 
----
-
-## 📫 Contact
-
-For questions, feedback, or collaboration ideas, feel free to open an issue or reach out. Contact me at sayanmondalhs1433@gmail.com
-
